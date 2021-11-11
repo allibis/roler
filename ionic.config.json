@@ -1,0 +1,7 @@
+{
+  "name": "roler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

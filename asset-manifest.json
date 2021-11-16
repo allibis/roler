@@ -3,15 +3,15 @@
     "static/js/0.d08fb027.chunk.js": "/roler/static/js/0.d08fb027.chunk.js",
     "static/js/0.d08fb027.chunk.js.map": "/roler/static/js/0.d08fb027.chunk.js.map",
     "main.css": "/roler/static/css/main.153ebe08.chunk.css",
-    "main.js": "/roler/static/js/main.c3b9bdb3.chunk.js",
-    "main.js.map": "/roler/static/js/main.c3b9bdb3.chunk.js.map",
+    "main.js": "/roler/static/js/main.33a53903.chunk.js",
+    "main.js.map": "/roler/static/js/main.33a53903.chunk.js.map",
     "polyfills-dom.js": "/roler/static/js/polyfills-dom.3e1117f7.chunk.js",
     "polyfills-dom.js.map": "/roler/static/js/polyfills-dom.3e1117f7.chunk.js.map",
     "runtime-main.js": "/roler/static/js/runtime-main.2b662e5a.js",
     "runtime-main.js.map": "/roler/static/js/runtime-main.2b662e5a.js.map",
     "static/css/4.c7310201.chunk.css": "/roler/static/css/4.c7310201.chunk.css",
-    "static/js/4.60d2dfc8.chunk.js": "/roler/static/js/4.60d2dfc8.chunk.js",
-    "static/js/4.60d2dfc8.chunk.js.map": "/roler/static/js/4.60d2dfc8.chunk.js.map",
+    "static/js/4.b1e51e96.chunk.js": "/roler/static/js/4.b1e51e96.chunk.js",
+    "static/js/4.b1e51e96.chunk.js.map": "/roler/static/js/4.b1e51e96.chunk.js.map",
     "static/js/5.5a6f6df6.chunk.js": "/roler/static/js/5.5a6f6df6.chunk.js",
     "static/js/5.5a6f6df6.chunk.js.map": "/roler/static/js/5.5a6f6df6.chunk.js.map",
     "static/js/6.cb5c8fe3.chunk.js": "/roler/static/js/6.cb5c8fe3.chunk.js",
@@ -121,15 +121,15 @@
     "index.html": "/roler/index.html",
     "static/css/4.c7310201.chunk.css.map": "/roler/static/css/4.c7310201.chunk.css.map",
     "static/css/main.153ebe08.chunk.css.map": "/roler/static/css/main.153ebe08.chunk.css.map",
-    "static/js/4.60d2dfc8.chunk.js.LICENSE.txt": "/roler/static/js/4.60d2dfc8.chunk.js.LICENSE.txt",
+    "static/js/4.b1e51e96.chunk.js.LICENSE.txt": "/roler/static/js/4.b1e51e96.chunk.js.LICENSE.txt",
     "static/js/52.c4fae48a.chunk.js.LICENSE.txt": "/roler/static/js/52.c4fae48a.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.3e1117f7.chunk.js.LICENSE.txt": "/roler/static/js/polyfills-dom.3e1117f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b662e5a.js",
     "static/css/4.c7310201.chunk.css",
-    "static/js/4.60d2dfc8.chunk.js",
+    "static/js/4.b1e51e96.chunk.js",
     "static/css/main.153ebe08.chunk.css",
-    "static/js/main.c3b9bdb3.chunk.js"
+    "static/js/main.33a53903.chunk.js"
   ]
 }
